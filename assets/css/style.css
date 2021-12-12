@@ -8,7 +8,7 @@
 
 /* Site Core Colors + Style*/
 :root {
-    --primary: rgb(77, 41, 0);
+    --primary: rgb(233, 206, 176);
     --secondary:rgb(26, 78, 29);
     --tertiary: rgb(240,121,82)
     --dark: rgba(28, 29, 33, 1);
@@ -41,7 +41,7 @@ header {
     flex-wrap: wrap;
     align-items: center;
     background-color: var(--tertiary);
-    box-shadow: 0 5px 35px rgb(240,121,82);
+    box-shadow: 0 5px 35px rgb(204, 240, 213);
 }
 
 header h1 {
