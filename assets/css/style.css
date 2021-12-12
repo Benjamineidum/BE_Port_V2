@@ -8,8 +8,8 @@
 
 /* Site Core Colors + Style*/
 :root {
-    --primary: rgb(160, 104, 41);
-    --secondary:rgb(66, 156, 71);
+    --primary: rgb(77, 41, 0);
+    --secondary:rgb(26, 78, 29);
     --tertiary: rgb(240,121,82)
     --dark: rgba(28, 29, 33, 1);
     --light: rgba(238, 238, 247, 1);
