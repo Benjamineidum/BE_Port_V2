@@ -205,7 +205,7 @@ main {
 }
 
 .grid-item:hover {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(223, 252, 209, 0.3);
 }
 
 .grid-item div {
