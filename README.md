@@ -1,7 +1,7 @@
 # Advanced CSS Challenge: Professional Portfolio
 
 
-## Acceptance Criteria :+1:
+## Acceptance Criteria
 
 > GIVEN I need to sample a potential employee's previous work   
 > WHEN I load their portfolio   
