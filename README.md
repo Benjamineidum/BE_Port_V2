@@ -22,4 +22,4 @@ See live application [here](https://Benjamineidum.github.io/BE_Port_V2/)
 
 Here's a current Screen Capture
 
-assets/images/PortfolioSC.png
+![alt text] https://github.com/Benjamineidum/BE_Port_V2/blob/main/assets/images/PortfolioSC.png
