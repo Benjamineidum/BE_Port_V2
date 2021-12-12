@@ -97,7 +97,7 @@ main {
 /* Hero Content */
 .hero-banner {
     background: rgb(68, 88, 120);
-    background-image: url("../images/lion.jpg"), linear-gradient(90deg, var(--secondary) 0%, var(--primary) 100%);
+    background-image: url("../images/background.jpg"), linear-gradient(90deg, var(--secondary) 0%, var(--primary) 100%);
     background-size: cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -218,28 +218,28 @@ main {
 }
 
 /* Images*/
-.poke-project {
-    background-image: url("../images/pokeproject.png");
+.Horiseon {
+    background-image: url("../images/HoriseonSC.png");
 }
 
-.horiseon {
-    background-image: url("../images/horiseon.png");
+.Run_Buddy {
+    background-image: url("../images/RB_SC.png");
 }
 
-.navmenu {
-    background-image: url("../images/navmenu.png");
+.Password_Generator {
+    background-image: url("../images/PWGen.png");
 }
 
-.about {
-    background-image: url("../images/about.png");
+.Pet_Parent_Instagram {
+    background-image: url("../images/BillieInsta.png");
 }
 
-.odds {
-    background-image: url("../images/odds.png"); 
+.halo {
+    background-image: url("../images/halo.png"); 
 }
 
-.games {
-    background-image: url("../images/games.png"); 
+.espn {
+    background-image: url("../images/espn.png"); 
 }
 
 /* Contact Section */
