@@ -41,7 +41,7 @@ header {
     flex-wrap: wrap;
     align-items: center;
     background-color: var(--tertiary);
-    box-shadow: 0 5px 35px rgb(204, 240, 213);
+    box-shadow: 0 5px 35px rgb(26, 78, 29);
 }
 
 header h1 {
